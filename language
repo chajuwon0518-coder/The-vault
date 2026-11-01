@@ -1,0 +1,26 @@
+{
+  "ko": {
+    "vault_title": "나의 금고",
+    "raid_button": "친구 강탈하기",
+    "invite_text": "친구를 지옥으로 초대하고 강탈권 3개를 받으세요!",
+    "stolen_msg": "{name}님이 당신의 금고에서 {amount}코인을 털어갔습니다!",
+    "revenge_btn": "당장 복수하러 가기",
+    "shield_active": "방어막 활성 중"
+  },
+  "en": {
+    "vault_title": "My Vault",
+    "raid_button": "Raid Friend",
+    "invite_text": "Invite a friend to hell and get 3 Raid Tickets!",
+    "stolen_msg": "{name} robbed {amount} coins from your vault!",
+    "revenge_btn": "Revenge Now!",
+    "shield_active": "Shield Active"
+  },
+  "ru": {
+    "vault_title": "사용자의 금고",
+    "raid_button": "Ограбить друга",
+    "invite_text": "Пригласи друга и получи 3 билета на грабеж!",
+    "stolen_msg": "{name} украл {amount} монет из вашего сейфа!",
+    "revenge_btn": "Отомстить сейчас!",
+    "shield_active": "Щит активен"
+  }
+}
